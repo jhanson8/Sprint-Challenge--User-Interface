@@ -227,3 +227,16 @@ footer nav a {
   border-bottom: 1px black dashed;
   padding-bottom: 5%;
 }
+
+.middleTwo {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5%;
+}
+
+.aboutBottom {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 6%;
+  padding-bottom: 4%;
+}
