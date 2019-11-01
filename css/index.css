@@ -240,3 +240,18 @@ footer nav a {
   padding-top: 6%;
   padding-bottom: 4%;
 }
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #ffff9f;
+}
